@@ -18,7 +18,7 @@ I'm a web accessibility specialist and enthusiast who like to developing user-fr
 
 **Builders**: Gulp, Parcel.
 
-**Other**: Basics of UX/UI (I've even read Don't Make Me Think), usability, and universal design; Git, BEM, closed captions, text transcriptions.
+**Other**: Basics of UX/UI (I've even read Don't Make Me Think), usability, and universal design; Git, BEM, closed captions, text transcriptions, wrote somehow on TypeScript.
 
 My bonus non-professional superpower is dog and cat whispering 🐈
 

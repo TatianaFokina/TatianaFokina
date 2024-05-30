@@ -4,7 +4,7 @@ I'm a web accessibility specialist and enthusiast who like to developing user-fr
 
 ## Skills ⚙️
 
-~A prolifient PC user, know how to open Microsoft Word and send a letter via Outlook…~
+~A prolifient PC user, know how to open Microsoft Word, send an email via Outlook…~
 
 **Accessibility**: WCAG, WAI-ARIA, WCAG-EM, assistive technologies (text-to-speech, speech-to-text, magnifiers), manual and automatic testing/evaluation, accessibility maturity models, U.S., European and Russian legislation.
 

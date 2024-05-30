@@ -4,7 +4,7 @@ I'm a web accessibility specialist and enthusiast who like to developing user-fr
 
 ## Skills ⚙️
 
-**Accessibility**: WCAG, WAI-ARIA, WCAG-EM, assistive technologies, manual and automatic testing/evaluation, maturnity models, U.S., European and Russian legistration.
+**Accessibility**: WCAG, WAI-ARIA, WCAG-EM, assistive technologies, manual and automatic testing/evaluation, accessibility maturity models, U.S., European and Russian legislation.
 
 **Core languages**: HTML, CSS, vanilla JavaScript, jQuery (hello, my dark past).
 

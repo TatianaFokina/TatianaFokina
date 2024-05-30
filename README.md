@@ -4,7 +4,7 @@ I'm a web accessibility specialist and enthusiast who like to developing user-fr
 
 ## Skills ⚙️
 
-**Accessibility**: WCAG, WAI-ARIA, WCAG-EM, assistive technologies, manual and automatic testing/evaluation, accessibility maturity models, U.S., European and Russian legislation.
+**Accessibility**: WCAG, WAI-ARIA, WCAG-EM, assistive technologies (text-to-speech, speech-to-text, magnifiers), manual and automatic testing/evaluation, accessibility maturity models, U.S., European and Russian legislation.
 
 **Core languages**: HTML, CSS, vanilla JavaScript, jQuery (hello, my dark past).
 
@@ -20,11 +20,11 @@ I'm a web accessibility specialist and enthusiast who like to developing user-fr
 
 My bonus non-professional superpower is dog and cat whispering 🐈
 
-## Writings and talks 🖊️
+## Writings, translations and talks 🖊️
 
-My other passion is tech writing. I bet you've already guessed my favorite topic, ha-ha. If not, I can give you a clue: The topic contains two letters “a” and “y” divided by the number “11”. If you are curious about it, check [the list of my writings and translations](https://github.com/TatianaFokina/my-articles-and-talks/blob/main/links-en.md) or go to [my personal blog](https://tatiana-fokina-blog.ru/en/).
+My other passion is tech writing. I bet you've already guessed my favorite topic, ha-ha. If not, I can give you a clue: The topic contains two letters “a” and “y” divided by the number “11.” If you are curious about it, check [the list of my writings and translations](https://github.com/TatianaFokina/my-articles-and-talks/blob/main/links-en.md) or go to [my personal blog](https://tatiana-fokina-blog.ru/en/).
 
-Sometimes I realize that I can talk and have talks (as you can see, my logic is bulletproof.) A few years ago, I was a co-organizer of the first Russian-speaking meetup on accessibility [pitera11y_meetup](https://www.youtube.com/playlist?list=PLTdS5E3zupkGg0FoMoWB5FD2tlBrSWUQB). I have experience being a speaker and, at the same time, a person who aren't sleep a wink because of organizer's duties. You know, you need to find a place for an event, bring speakers, review their talks, slides, and so on. Pretty stressful duty!
+Sometimes I realize that I can talk and have talks (as you can see, my logic is bulletproof.) A few years ago, I was a co-organizer of the first Russian-speaking meetup on accessibility [pitera11y_meetup](https://www.youtube.com/playlist?list=PLTdS5E3zupkGg0FoMoWB5FD2tlBrSWUQB). I have experience being a speaker and, at the same time, a person who aren't sleep a wink because of organizer's duties. You need to find a place for an event, bring speakers, review their talks, slides, and so on. Pretty stressful duty!
 
 ## Podcasts 🎙️
 

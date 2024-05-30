@@ -1,4 +1,4 @@
-## Hi, this is Tanya
+# Hi, this is Tanya
 
 I'm a web accessibility specialist and enthusiast who like to developing user-friendly interfaces. Obviously, my true passion is web accessibility (or a11y for short). Even I focus more on web accessibility front-end and web development aren't strangers to me.
 

@@ -2,19 +2,28 @@
 
 I'm a web accessibility specialist and enthusiast who like to developing user-friendly interfaces. Obviously, my true passion is web accessibility (or a11y for short.) Even I focus more on web accessibility front-end and web development aren't strangers to me.
 
+## Facts about me 👩‍💻
+
+- Editor and front-end developer at Doka, open-source handbook for the Russian-speaking tech community
+- Technical writer, focusing on accessibility and web development
+- Open-source contributor
+- Podcast creator, have a lot to say about accessibility
+- Mentor who help other developers
+- Philomath and bookworm, love to learn new things about the web and help others learn.
+
 ## Skills ⚙️
 
 ~A prolifient PC user, know how to open Microsoft Word, send an email via Outlook…~
 
-**Accessibility**: WCAG, WAI-ARIA, WCAG-EM, assistive technologies (text-to-speech, speech-to-text, magnifiers), manual and automatic testing/evaluation, accessibility maturity models, U.S., European and Russian legislation.
+**Accessibility**: WCAG, WAI-ARIA, WCAG-EM, assistive technologies (text-to-speech, speech-to-text, magnifiers), manual and automatic testing/evaluation, accessibility maturity models; US, EU and Russian legislation.
 
-**Core languages**: HTML, CSS, vanilla JavaScript, jQuery (hello, my dark past.)
+**Core languages**: HTML, CSS, JavaScript, jQuery (hello, my dark past.)
 
 **Frameworks and templating engines**: Angular, Next.js, Nunjucks.
 
 **CSS preprocessors**: SCSS, Sass, Stylus.
 
-**HTML preprocessor and  static site generators**: Pug, 11ty.
+**HTML preprocessor and static site generators**: Pug, 11ty.
 
 **Builders**: Gulp, Parcel.
 
@@ -34,7 +43,7 @@ In April 2023, I decided it wasn't too late to start my own podcast. This is how
 
 I prepare topics and materials for discussions, record the audio, assist with audio mixing, transcribing, captioning, and update the podcast website… In short, I handle all typical podcaster tasks.
 
-Occasionally, I appear as a guest on other tech podcasts, such as [the Web Stadards Podcast](https://web-standards.ru/podcast/). It is one of the most popular Russian-language podcasts with 28.2K subscribers on YouTube.
+Occasionally, I appear as a guest on other tech podcasts, such as [the Web Stadards Podcast](https://web-standards.ru/podcast/). It's one of the most popular Russian-language podcasts with 28.2K subscribers on YouTube.
 
 ## Currently learning 🎓
 

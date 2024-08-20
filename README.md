@@ -20,9 +20,9 @@ I'm a web accessibility specialist and enthusiast who like to developing user-fr
 
 **Core languages**: HTML, CSS, JavaScript, jQuery (hello, my dark past.)
 
-**Frameworks and templating engines**: Angular, Next.js, Nunjucks.
+**Frameworks and templating engines**: Angular, Next.js, Nunjucks, Handlebars.
 
-**CSS preprocessors**: SCSS, Sass, Stylus.
+**CSS preprocessors**: Sass, Stylus.
 
 **HTML preprocessor and static site generators**: Pug, 11ty.
 

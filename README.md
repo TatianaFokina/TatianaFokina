@@ -4,7 +4,7 @@ I'm an accessibility engineer and enthusiast who like to developing user-friendl
 
 ## Facts about me 👩‍💻
 
-- Editor and front-end developer at Doka Guide, open-source handbook for the Russian-speaking tech community
+- Editor and accessibility engineer at Doka Guide, open-source handbook for the Russian-speaking tech community
 - Women Techmakers Ambassador
 - Technical writer, focusing on accessibility and web development
 - Open-source contributor

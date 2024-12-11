@@ -6,6 +6,7 @@ I'm an accessibility engineer and enthusiast who like to developing user-friendl
 
 - Editor and accessibility engineer at Doka Guide, open-source handbook for the Russian-speaking tech community
 - Women Techmakers Ambassador
+- Certified professional in accessibility core competencies (CPACC)
 - Technical writer, focusing on accessibility and web development
 - Open-source contributor
 - Podcast creator, have a lot to say about accessibility
@@ -30,7 +31,7 @@ I'm an accessibility engineer and enthusiast who like to developing user-friendl
 
 **Other**: Basics of UX/UI (I've even read Don't Make Me Think), usability, and universal design; Git, BEM, closed captions, text transcriptions, wrote somehow on TypeScript.
 
-My bonus non-professional superpower is dog and cat whispering 🐈.
+My bonus non-professional superpower is dog and cat whispering 🐈
 
 ## Writings, translations and talks 🖊️
 
@@ -48,13 +49,12 @@ Occasionally, I appear as a guest on other tech podcasts, such as [the Web Stada
 
 ## Currently learning 🎓
 
-- Preparing for IAAP CPACC certification
+- Preparing for Trusted Tester
 - New CSS features (because there are a lot of them, so hard to stay updated)
 - How JavaScript works on a deep level
-- Automated testing
-- How to debug efficiently, like a ninja
+- How to debug efficiently, like a ninja.
 
-And the last but not least, how to survive in this world as a late-diagnosed autistic adult 🙃.
+And the last but not least, how to survive in this world as a late-diagnosed autistic adult 🙃
 
 ## Get in touch 🫰
 
